@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Homework 2</string>
+    <string name="myFileprovider">com.example.hw2</string>
+    <string name="dialog_confirm">Usuń</string>
+    <string name="dialog_cancel">Wróć</string>
+    <string name="delete_question">Czy na pewno chcesz usunąć ten wpis?</string>
+    <string name="modeledit">Wpisz model i markę</string>
+    <string name="coloredit">Wpisz kolor</string>
+    <string name="detailsedit">Dodaj krótki opis</string>
+    <string name="save">Zapisz</string>
+    <string name="details">Opis:</string>
+    <string name="model">Model i marka:</string>
+    <string name="color">Kolor:</string>
+    <string name="retray_msg">Powtórz</string>
+    <string name="delete_cancel_msg">Wstrzymano usunięcie</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="prefs">prefs</string>
+    <string name="text">text</string>
+    <string name="json">json</string>
+
+</resources>
